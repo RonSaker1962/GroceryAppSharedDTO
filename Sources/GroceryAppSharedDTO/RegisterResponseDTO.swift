@@ -16,3 +16,5 @@ public struct RegisterResponseDTO: Codable {
         self.reason = reason
     }
 }
+
+
